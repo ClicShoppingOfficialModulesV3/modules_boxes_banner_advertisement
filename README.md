@@ -20,7 +20,7 @@ http://monsite/myAdmin/modules.php?set=modules_boxes
 Activate the module in Design / Layout / left & Right
 Insert the the banner group name inside Marketing / Banner
 
-link to marketplace  : https://www.clicshopping.org/forum/files/file/44-modules_boxes_banner_advertisement/
+link to marketplace  : https://www.clicshopping.org/forum/files/file/53-modules-boxes-advertisement/
 
 See forum for all informations
 
